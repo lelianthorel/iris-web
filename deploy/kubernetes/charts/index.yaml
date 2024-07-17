@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-07-17T10:18:12.553160036+02:00"
+entries:
+  iris-web:
+  - apiVersion: v2
+    appVersion: 2.4.5
+    created: "2024-07-17T10:31:29.792240699+02:00"
+    description: A Helm chart for Iris Web
+    digest: 06f08665bfdd0fb41c06df98ce2dc8565f538ce70334599d67e8d25c9a147c77
+    name: iris-web
+    type: application
+    urls:
+    - iris-web-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-07-17T10:31:29.79068065+02:00"
